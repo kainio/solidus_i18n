@@ -84,7 +84,7 @@ fr:
         alt: Texte alternatif
         attachment: Nom de fichier
       spree/inventory_unit:
-        state: Province / Région / État
+        state: État
       spree/legacy_user:
         email: Email
         password: Mot de passe
@@ -1163,7 +1163,7 @@ fr:
       tab:
         checkout: Remboursements et retours
         configuration: Configuration
-        display_order: Afficher les commandes
+        display_order: Ordre d'affichage
         option_types: Types d'option
         orders: Commandes
         overview: Vue d'ensemble
@@ -1186,7 +1186,7 @@ fr:
         users: Utilisateurs
         zones: Zones
       taxons:
-        display_order: Afficher la commande
+        display_order: Ordre d'affichage
       user:
         account: Compte
         addresses: Adresses
