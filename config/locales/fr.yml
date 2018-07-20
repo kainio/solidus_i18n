@@ -2581,5 +2581,5 @@ fr:
   time:
     formats:
       solidus:
-        long: "%A %d %B %Y %Hh%M"
-        short: "%d %b %Hh%M"
+        long: '%d %B, %Y %-l:%M %p'
+        short: "%-d %b '%y %-l:%M%P"
